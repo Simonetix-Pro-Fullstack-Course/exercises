@@ -41,5 +41,3 @@ For social network icons, you can use some icon lib. Suggestions:
 - [Font Awesome](https://fontawesome.com)
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
-
-Translated with www.DeepL.com/Translator (free version)
