@@ -42,5 +42,3 @@ Look at the designs to start planning how to approach the project. This step is 
 
 **Have fun programming!
 
-
-Translated with www.DeepL.com/Translator (free version)
