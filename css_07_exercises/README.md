@@ -33,9 +33,14 @@ There is also a `style-guide.md` file, which has the information you will need, 
 
 Feel free to use whatever workflow you are comfortable with. Below is a suggested process, but don't feel you have to follow these steps:
 
-Initialize the project as a public repository on [GitHub] (https://github.com/). This will make it easier to share the code if you need help.
-2. Set up your repository to publish your code to a URL. This will also be useful if you need help during a challenge, as you can share the URL of the project. There are several ways to do this, but we recommend using [ZEIT Now] (http://bit.ly/fem-zeit). We have more information on how to upload the project with ZEIT below.
-Look at the designs to start planning how to approach the project. This step is crucial to help you think ahead about the CSS classes you might create to make styles reusable.
+Initialize the project as a public repository on [GitHub] (https://github.com/).
+This will make it easier to share the code if you need help.
+2. Set up your repository to publish your code to a URL. 
+This will also be useful if you need help during a challenge, as you can share the URL of the project.
+There are several ways to do this, but we recommend using [ZEIT Now] (http://bit.ly/fem-zeit). 
+We have more information on how to upload the project with ZEIT below.
+Look at the designs to start planning how to approach the project.
+This step is crucial to help you think ahead about the CSS classes you might create to make styles reusable.
 4. Before adding any styling, structure the content with HTML. Writing the HTML first can help focus your attention on creating well-structured content.
 5. I wrote the base styles for the project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles at the top of the page and work your way down. Move on to the next section only when you are sure you have completed the area you are working on.
