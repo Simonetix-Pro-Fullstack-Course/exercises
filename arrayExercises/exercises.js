@@ -1,6 +1,6 @@
 // Exercise Array 000
 // Create a file with the name arr_000.js
-// Declare a variable named womenInTechand assign it an array containing 5 names of influential women in technology.
+// Declare a variable named womenInTech assign it an array containing 5 names of influential women in technology.
 // Declare a named variable arrayNumber assign it an array containing 5 numbers (any number).
 // Show in console the content of both variables.
 
