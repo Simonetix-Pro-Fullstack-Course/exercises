@@ -1,9 +1,9 @@
 #### Weekly Assignment #1 – JavaScript: BuzzQuiz
 
 The following Assignment is based on the following subjects:
-o	JavaScript basics: objects, functions
-o	JavaScript Events handling
-o	HTML Input Types
+-	JavaScript basics: objects, functions
+-	JavaScript Events handling
+-	HTML Input Types
 
 Understanding the task 
 1.	In this assignment, we will write a quiz.
