@@ -2,7 +2,7 @@
 
 # Todo:
 
-`1.) Checkout the image below. Your assignment is your recreate this format using the javascript with OOP, functions, Arrays, Conditions and DOM.`
+`1.) Checkout the image below (example.png). Your assignment is your recreate this format using the javascript with OOP, functions, Arrays, Conditions and DOM.`
 
 `2.) Your program should be consisted of these main classes: Budget and UI for calculation building the UI behavior.  `
 
