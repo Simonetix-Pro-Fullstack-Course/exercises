@@ -1,0 +1,1 @@
+`Task: Look at the image below, make a todo list that will have sorting functionalities, priorities and store the data using LocalStorage.`
