@@ -6,4 +6,4 @@
 
 # -------------------------------------------------------
 # How should I expect? check the image below:
-![alt text](https://imgur.com/gmm9Xsq)
+![](https://i.imgur.com/gmm9Xsq.png)
