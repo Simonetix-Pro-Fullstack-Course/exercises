@@ -18,7 +18,7 @@ are fulfilled, print `"done working out"`.
 Hint: Use `Promise.all` to execute code after all the promises are fulfilled.
 
 Test your code by running the file in node (**node phase-1.js**). You should see
-the following in your terminal printed out in this exact order:
+the following in your console printed out in this exact order:
 
 ```plaintext
 done running on treadmill
